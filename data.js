@@ -56,3 +56,68 @@ export const testimony = [
 
 ]
 
+export const leftFooterLinks = [
+  
+  
+
+    {
+      name: 'Home',
+      href: '/home'
+    },
+  
+    {
+      name: 'Pricing',
+      href: '/pricing'
+    },
+  
+  {
+  name: 'Product',
+  href: '/product'
+  },
+  
+  {
+  name: 'About Us',
+  href: '/about'
+  },
+
+]
+
+export const rightyFooterLinks = [
+
+ 
+
+  {
+    name: 'Careers',
+    href: '/careers'
+    },
+    
+    {
+    name: 'Community',
+    href: '/community'
+    },
+    {
+      name: 'Privacy Policy',
+    href: '/privacy-policy'
+    },
+
+ ]
+
+
+export const SocialLinks = [
+  {
+    img: './src/images/icon-facebook.svg'
+  },
+  {
+    img: './src/images/icon-youtube.svg'
+  },
+  {
+    img: './src/images/icon-twitter.svg'
+  },
+  {
+    img: './src/images/icon-pinterest.svg'
+  },
+  {
+    img: './src/images/icon-instagram.svg'
+  }
+]
+

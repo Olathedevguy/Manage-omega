@@ -4,6 +4,7 @@ import Pill from './images/bg-tablet-pattern.svg'
 import Section2 from './components/Section2'
 import Testimonies from './components/Testimonies'
 import CallToAction from './components/CallToAction'
+import FooterSection from './components/FooterSection'
 const App = () => {
   return (
     <main className='relative overflow-x-clip'>
@@ -14,6 +15,7 @@ const App = () => {
      <img src={Pill} className='absolute -z-10 top-[24rem] -right-[18rem] md:top-[1030px] md:-left-[25rem]' alt="" />
       <Testimonies />
       <CallToAction />
+      <FooterSection />
     </main>
   )
 }

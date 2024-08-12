@@ -30,25 +30,25 @@ export const navItems = [
 
 export const testimony = [
 
-	{ img: `./src/images/avatar-anisha.png`,
+	{ img: `../src/images/avatar-anisha.png`,
 		name: `Anisha Li`,
 		msg: `Manage has supercharged our team's workflow. They maintain ,
 		visibility on larger milestones at all time keeps everyone motivated.`
 	},
 
-	{ img: `./src/images/avatar-ali.png`,
+	{ img: `../src/images/avatar-ali.png`,
 		name: `Ali Bravo`,
 		msg: `We have been able to cancel so many other subscriptions since,
 			using Manage. There is no more cross-channel confusion and everyone is so much more focused`
 	},
 
-	{ img: `./src/images/avatar-richard.png`,
+	{ img: `../src/images/avatar-richard.png`,
 		name: `Richard Watts`,
 		msg: `Manage allows us to provide structure and process. It keeps us organized and focused. I can't stop recommending them to everyone I talk to!`
 
 	},
 
-{   img: `./src/images/avatar-shanai.png`,
+{   img: `../src/images/avatar-shanai.png`,
 		name: `Shanai Gough`,
 		msg: `Their software allows us to track, manage and collaborate on our projects from anywhere. It keeps the whole team in-sync without being intrusive.`
 	},
@@ -105,19 +105,19 @@ export const rightyFooterLinks = [
 
 export const SocialLinks = [
   {
-    img: './src/images/icon-facebook.svg'
+    img: '../src/images/icon-facebook.svg'
   },
   {
-    img: './src/images/icon-youtube.svg'
+    img: '../src/images/icon-youtube.svg'
   },
   {
-    img: './src/images/icon-twitter.svg'
+    img: '../src/images/icon-twitter.svg'
   },
   {
-    img: './src/images/icon-pinterest.svg'
+    img: '../src/images/icon-pinterest.svg'
   },
   {
-    img: './src/images/icon-instagram.svg'
+    img: '../src/images/icon-instagram.svg'
   }
 ]
 
